@@ -1,0 +1,19 @@
+.bolge{
+    width: 400px;
+    height: 200px;
+    border: 2px dashed black;
+    display: flex;
+    margin-top: 20px;
+
+}
+.tasinabilir{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(194, 145, 239);
+    margin: 10px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    cursor: move;
+    
+}
